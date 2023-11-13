@@ -1,0 +1,331 @@
+.tarolo {
+  margin: auto;
+  width: 100%;
+  max-width: 800px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.stopfloat {
+  clear: both;
+}
+
+.fejlec {
+  background-image: url("kepek/hero.jpg");
+  height: 128vh;
+  background-size: cover;
+  text-align: center;
+  background-position: bottom;
+  margin-bottom: -27px;
+}
+
+.kep2 {
+  margin: auto;
+  background-color: rgb(22, 22, 22);
+  height: 100vh;
+  background-size: cover;
+  text-align: center;
+  max-height: 260px;
+  margin-bottom: -27px;
+}
+
+.kep3 {
+  margin: auto;
+  background-color: rgb(22, 22, 22);
+  height: 100vh;
+  background-size: cover;
+  text-align: center;
+}
+
+.kep4 {
+  background-color: rgb(22, 22, 22);
+  height: 100vh;
+  background-size: cover;
+}
+
+.kep5 {
+  background-color: rgb(22, 22, 22);
+  height: 100vh;
+  background-size: cover;
+}
+
+.hatodik {
+  background-color: rgb(22, 22, 22);
+  height: 100vh;
+  background-size: cover;
+}
+
+h1 {
+  color: whitesmoke;
+  padding-top: 40px;
+  font-size: 40px;
+  text-decoration: none;
+}
+
+h2 {
+  color: whitesmoke;
+  padding-top: 40px;
+  font-size: 40px;
+  text-decoration: none;
+}
+
+p {
+  color: whitesmoke;
+  letter-spacing: 1px;
+}
+
+.menu a {
+  text-decoration: none;
+  color: whitesmoke;
+}
+
+.menu ul {
+  display: grid;
+  grid-template-columns: 22% 22% 22% 22%;
+  padding-top: 35px;
+  padding-left: 30px;
+  gap: 20px;
+}
+
+.menu li {
+  list-style-type: none;
+  background-color: orange;
+  border-radius: 30px;
+  padding: 16px;
+  gap: 10px;
+  font-size: 14px;
+  box-shadow: 0px 2px 10px rgb(25, 25, 25);
+}
+
+.fejlecgomb a {
+  text-decoration: none;
+  color: whitesmoke;
+  font-size: 14px;
+}
+
+.fejlecgomb {
+  margin: auto;
+  margin-top: 20px;
+  background-color: orange;
+  max-width: 268px;
+  border-radius: 30px;
+  padding: 16px;
+  box-shadow: 0px 2px 10px rgb(25, 25, 25);
+}
+
+.kep2szoveg h1 {
+  font-size: 30px;
+}
+
+.kep2menu ul {
+  display: grid;
+  grid-template-columns: 44% 44%;
+  padding-top: 17px;
+  gap: 40px;
+  justify-content: center;
+}
+
+.kep2menu li {
+  list-style-type: none;
+  background-color: orange;
+  border-radius: 30px;
+  padding: 16px;
+  font-size: 14px;
+  box-shadow: 0px 2px 10px rgb(25, 25, 25);
+  margin-right: 35px;
+}
+
+.kep2menu a {
+  text-decoration: none;
+  color: whitesmoke;
+  font-size: 14px;
+}
+
+.kep3 {
+  height: 700px;
+  text-align: center;
+  margin-bottom: -21px;
+}
+
+.kep3szoveg h1 {
+  font-size: 30px;
+}
+
+.kep3szoveg h2 {
+  font-size: 20px;
+  margin-bottom: 23px;
+  margin-top: -20px;
+}
+
+.kep3lista {
+  text-align: left;
+  color: whitesmoke;
+  letter-spacing: 1px;
+}
+
+.kep3lista ul {
+  margin-left: 35px;
+}
+
+.kep3 li {
+  margin-bottom: 5px;
+}
+
+.kep3menu ul {
+  display: grid;
+  grid-template-columns: 44% 44%;
+  padding-top: 17px;
+  gap: 40px;
+  justify-content: center;
+}
+
+.kep3menu li {
+  list-style-type: none;
+  background-size: cover;
+  background-repeat: no-repeat;
+  border-radius: 22px;
+  padding: 16px;
+  font-size: 16px;
+  box-shadow: 0px 2px 10px rgb(25, 25, 25);
+  margin-right: 35px;
+  height: 310px;
+  text-decoration: none;
+  color: whitesmoke;
+  font-size: 17px;
+}
+
+#kep3_a {
+  background-image: url("kepek/norveg\ macska.jpg");
+}
+
+#kep3_b {
+  background-image: url("kepek/main\ coon.jpg");
+}
+
+.kep4 {
+  height: 700px;
+  text-align: center;
+  margin-bottom: -35px;
+}
+
+.kep4szoveg h1 {
+  font-size: 30px;
+}
+
+.kep4szoveg h2 {
+  font-size: 20px;
+  margin-bottom: 23px;
+  margin-top: -20px;
+}
+
+.kep4lista {
+  text-align: left;
+  color: whitesmoke;
+  letter-spacing: 1px;
+  margin-top: 35px;
+}
+
+.ke4lista ul {
+  margin-left: 35px;
+}
+
+.kep4 li {
+  margin-bottom: 5px;
+}
+
+.kep4menu ul {
+  display: grid;
+  grid-template-columns: 44% 44%;
+  padding-top: 17px;
+  gap: 40px;
+  justify-content: center;
+}
+
+.kep4menu li {
+  list-style-type: none;
+  background-size: cover;
+  background-repeat: no-repeat;
+  border-radius: 22px;
+  padding: 16px;
+  font-size: 16px;
+  box-shadow: 0px 2px 10px rgb(25, 25, 25);
+  margin-right: 35px;
+  height: 310px;
+  text-decoration: none;
+  color: whitesmoke;
+  font-size: 17px;
+}
+
+#kep4_a {
+  background-image: url("kepek/bengali.jpg");
+}
+
+#kep4_b {
+  background-image: url("kepek/meg\ ez\ a\ cica.jpg");
+}
+
+.kep5 {
+  height: 450px;
+  text-align: center;
+  margin-bottom: -34px;
+}
+
+.kep5szoveg h2 {
+  font-size: 25px;
+  margin-bottom: 23px;
+  margin-top: -20px;
+}
+
+.kep5 li {
+  margin-bottom: 5px;
+}
+
+.kep5menu ul {
+  display: grid;
+  grid-template-columns: 48% 48%;
+  padding-top: 17px;
+  gap: 0px;
+  justify-content: center;
+}
+
+.kep5menu li {
+  list-style-type: none;
+  background-size: cover;
+  background-repeat: no-repeat;
+  border-radius: 12px;
+  padding: 14px;
+  font-size: 16px;
+  box-shadow: 0px 2px 10px rgb(25, 25, 25);
+  margin-right: 35px;
+  height: 310px;
+  text-decoration: none;
+  color: black;
+  font-size: 17px;
+  background-color: rgb(255, 255, 255);
+  max-height: 250px;
+  text-align: left;
+}
+
+.kep5 li img {
+  max-width: 100px;
+  float: left;
+  margin-bottom: -17px;
+}
+
+.kep5 li a {
+  text-align: center;
+}
+.kep5 a {
+  text-decoration: none;
+  color: whitesmoke;
+  font-size: 13px;
+}
+
+.kep5link {
+  background-color: orange;
+  box-shadow: 0px 2px 4px rgb(180, 180, 180);
+  border-radius: 20px;
+  padding: 12px;
+  text-align: center;
+  max-width: 240px;
+  margin: auto;
+}
